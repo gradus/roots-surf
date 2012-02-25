@@ -1,4 +1,3 @@
-![Roots Surf Team](images/roots_team_logo.png)
 #### Charleston, SC
 
 <div id="content">

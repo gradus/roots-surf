@@ -1,4 +1,3 @@
-![Roots Surf Team](images/roots_team_logo.png)
 ## About the Roots Surf Team
 
 The Roots Surf Team is a group of menehune wahines surfing on the coast
