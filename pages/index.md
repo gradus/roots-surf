@@ -1,21 +1,21 @@
 ![Roots Surf Team](images/roots_team_logo.png)
-#### IOP, SC
+#### Charleston, SC
 
 <div id="content">
   <span class="left">
-  <img src="images/rose.png" />
+  <a href="rose_windham.html"><img src="images/rose.png" /></a>
    <br />
    Rose Windham
   </span>
   <span class="left">
-  <img src="images/syl.png" />
+  <a href="sylvia_windham.html"><img src="images/syl.png" /></a>
    <br />
    Sylvia Windham
   </span>
   <span class="left">
-  <img src="images/bigwin.png" />
+   <img src="images/bigwin.png" />
    <br />
-   1st Place at the Joe Hiller
+   1st Place at the Joe Hiller 
   </span>
   <span class="left">
   <img src="images/syl2.png" />
