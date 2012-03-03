@@ -22,3 +22,6 @@ to be in the water.
 
 
 ![Rose Windham](/images/rose2.png)
+
+![Rose Windham with board](/images/roseboard.png)
+

@@ -12,6 +12,16 @@
    Sylvia Windham
   </span>
   <span class="left">
+  <a href="grace_hanlin.html"><img src="images/grace.png" /></a>
+   <br />
+   Grace Hanlin
+  </span>
+  <span class="left">
+   <img src="images/watch_out_boys.png" /></a>
+   <br />
+   Watch out boys
+  </span>
+  <span class="left">
    <img src="images/bigwin.png" />
    <br />
    1st Place at the Joe Hiller 
