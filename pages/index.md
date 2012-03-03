@@ -12,9 +12,9 @@
    Sylvia Windham
   </span>
   <span class="left">
-  <a href="grace_hanlin.html"><img src="images/grace.png" /></a>
+  <a href="grace_handlin.html"><img src="images/grace.png" /></a>
    <br />
-   Grace Hanlin
+   Grace Handlin
   </span>
   <span class="left">
    <img src="images/watch_out_boys.png" /></a>
