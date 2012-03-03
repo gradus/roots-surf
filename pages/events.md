@@ -23,3 +23,5 @@ August 22 Surfer's Healing, A Foundation for Autism on Folly Beach - The Tides -
 October 6-7 Joe Hiller Longboard Classic - Presented by Charleston Watersport Outfitters - Isle of Palms County Park- IOP Pier
 
 Please visit the [SSC ESA Website](http://ssc.surfesa.org/) for more details on these events, joining the ESA and entry forms.
+
+![ESA](/images/surfesa.png)
