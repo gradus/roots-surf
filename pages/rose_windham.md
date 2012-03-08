@@ -1,6 +1,6 @@
 ## Rose Windham
 
-Hi.  I am Rose Widnham.  I am 9 years old.  I was born in Asheville, NC.
+Hi.  I am Rose Windham.  I am 9 years old.  I was born in Asheville, NC.
 I moved from Asheville to Columbia, SC when I was 7 months old.  
 I lived there for 5 years and I met very nice people and made some good friends.
 Then, my family moved to Chapel Hill for a few years before relocating to Mount Pleasant, SC.
